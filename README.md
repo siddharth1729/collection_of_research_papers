@@ -10,6 +10,10 @@ This repository contains a curated list of research papers that i have either re
 
 - [Performance Evaluation of Concurrent Lock-free Data Structures on GPUs](src/lock-free_datastructue_on_gpu_performnce.pdf)
 
+## Maths
+
+- [Category Theory Notes](src/cateogry_theory.pdf)
+
 ## Usage
 
 To access a research paper:
