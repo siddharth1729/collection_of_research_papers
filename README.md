@@ -6,7 +6,7 @@ This repository contains a curated list of research papers that i have either re
 
 - [Websocket Performance in various language](src/performance_of_websocket_in_diffrent_language.pdf)
 
-## Concurent Data Structure
+## Concurent Programming
 
 - [Performance Evaluation of Concurrent Lock-free Data Structures on GPUs](src/lock-free_datastructue_on_gpu_performnce.pdf)
 
